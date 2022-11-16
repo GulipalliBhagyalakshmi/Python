@@ -1,0 +1,395 @@
+
+issue ento choopinchu first naku
+
+run cheyyandi
+
+From Sunil Kumar Kota to Everyone 11:37 PM
+ok
+choostunna code
+aagu
+download.html anaydhi oka separate file
+ippudu a file ni run cheyyali nenu
+From Me to Everyone 11:37 PM
+index,html
+From Sunil Kumar Kota to Everyone 11:37 PM
+index.html run chestuntay error vastundhaa
+ok
+From Me to Everyone 11:37 PM
+ok na
+From Sunil Kumar Kota to Everyone 11:39 PM
+ok wait
+I will check now
+bhagya
+aagu
+nv enduku kadhuputunnav cursor
+From Me to Everyone 11:39 PM
+ok
+From Sunil Kumar Kota to Everyone 11:48 PM
+work avutundhi kadhaa
+ala avvadhu bhagya
+From Me to Everyone 11:48 PM
+emm
+From Sunil Kumar Kota to Everyone 11:48 PM
+neeku work avvadam kavala
+alagay work avvadam kavala
+From Me to Everyone 11:48 PM
+sare
+From Sunil Kumar Kota to Everyone 11:49 PM
+localhost anaydhi server
+From Me to Everyone 11:49 PM
+aaa
+From Sunil Kumar Kota to Everyone 11:49 PM
+edho oka server untaynay localhost:8080 tho run cheyyagalam
+xampp lo choodu...apache server untundhi kabatti
+From Me to Everyone 11:49 PM
+denni xamp server tho run cheyyandi
+From Sunil Kumar Kota to Everyone 11:49 PM
+localhost:8080 tho run cheyyagalam akkada
+From Me to Everyone 11:49 PM
+db lo store avvali
+From Sunil Kumar Kota to Everyone 11:49 PM
+ok
+From Me to Everyone 11:50 PM
+enter chsina calues
+From Sunil Kumar Kota to Everyone 11:50 PM
+db lo store avvali antay python code undali
+From Me to Everyone 11:50 PM
+cheppandi
+From Sunil Kumar Kota to Everyone 11:50 PM
+i mean
+From Me to Everyone 11:50 PM
+nenu chesta
+From Sunil Kumar Kota to Everyone 11:50 PM
+php code undali
+From Me to Everyone 11:50 PM
+cheppandi
+akkada rayali
+From Sunil Kumar Kota to Everyone 11:51 PM
+xampp lo ela run cheyyalo cheptha choodu
+observe what i am doing
+From Me to Everyone 11:51 PM
+ok
+From Sunil Kumar Kota to Everyone 11:51 PM
+tarvatha malli cheppanu
+From Me to Everyone 11:51 PM
+ok
+From Sunil Kumar Kota to Everyone 11:52 PM
+your xampp folder is located inside C drive
+From Me to Everyone 11:53 PM
+ok
+From Sunil Kumar Kota to Everyone 11:53 PM
+C:/xampp - this is your xampp path
+From Me to Everyone 11:53 PM
+ok
+From Sunil Kumar Kota to Everyone 11:53 PM
+inside xampp...look for htdocs folder
+now paste your project folder here
+From Me to Everyone 11:53 PM
+ok
+From Sunil Kumar Kota to Everyone 11:54 PM
+as we don't have project folder..we have only single file
+just paste that file inside htdocs folder
+seeee
+ikkada oka point
+From Me to Everyone 11:54 PM
+I stored the index file in project folder in vs
+From Sunil Kumar Kota to Everyone 11:55 PM
+xampp lo htdocs lo...index.html tho oka file by default untundhi
+so same filename tho ne filename undakoodadhu
+From Me to Everyone 11:55 PM
+ok
+From Sunil Kumar Kota to Everyone 11:55 PM
+change the filename or
+putyour file inside a new folder
+From Me to Everyone 11:55 PM
+petta
+From Sunil Kumar Kota to Everyone 11:57 PM
+em fodler needhi
+nenu cheppaydhi ardham avutundhaa
+htdocs lo inko folder undali
+or ne folder motthanni ikkadiki paste cheyyi
+copy chesaym kadha
+From Me to Everyone 11:57 PM
+ok
+From Sunil Kumar Kota to Everyone 11:58 PM
+ippudu mana project folder ni ekkada pettali
+From Me to Everyone 11:58 PM
+in xamp
+?
+htdocs?
+From Sunil Kumar Kota to Everyone 11:58 PM
+no..we need to paste it in....htdocs
+yes
+From Me to Everyone 11:58 PM
+ok
+ok
+From Sunil Kumar Kota to Everyone 11:58 PM
+wait
+From Me to Everyone 11:58 PM
+then
+From Sunil Kumar Kota to Everyone 11:59 PM
+ippudu em chesamo cheppu first
+type cheyyi...appuday gurthuntundhi
+From Me to Everyone 11:59 PM
+we have to start apache
+From Me to Everyone 12:01 AM
+view as localhost in browser
+start MySQL if you have any code regards to mysql
+is it??
+what are you doind
+?
+hello sir
+From Sunil Kumar Kota to Everyone 12:01 AM
+yes correct
+From Me to Everyone 12:01 AM
+ok
+From Sunil Kumar Kota to Everyone 12:02 AM
+have you started apache server
+?
+From Me to Everyone 12:02 AM
+ya
+then
+From Sunil Kumar Kota to Everyone 12:03 AM
+now open browser
+and type localhost:8080
+just type localhost
+this is the html page of index.html in htdocs folder
+From Me to Everyone 12:03 AM
+ya
+From Sunil Kumar Kota to Everyone 12:06 AM
+if you change something in that ...it will reflect here
+let see
+you are seeing right
+From Me to Everyone 12:06 AM
+ya
+From Sunil Kumar Kota to Everyone 12:08 AM
+what is happening there
+index.php file saying...load dashboard project ...i.e inside dashboard folder...there is index.html file.....load that
+adhi index.php file
+ok na
+From Me to Everyone 12:08 AM
+ok
+From Sunil Kumar Kota to Everyone 12:09 AM
+akkada dashboard folder ki vellamani undhi….choosayv kadhaa
+hello
+aagu
+From Me to Everyone 12:09 AM
+where
+From Sunil Kumar Kota to Everyone 12:09 AM
+save cheyyi aa file ni
+From Me to Everyone 12:09 AM
+meku oka dandam
+From Sunil Kumar Kota to Everyone 12:09 AM
+enter kottaysav ga
+From Me to Everyone 12:09 AM
+naku kuda okasari evvandi move cheyyadaniki
+From Sunil Kumar Kota to Everyone 12:09 AM
+dhandam enduku kukka
+aaa...cheyyi
+From Me to Everyone 12:10 AM
+cheppandi
+From Sunil Kumar Kota to Everyone 12:10 AM
+aaa
+ippudu default ela run avutundho choosaym
+From Me to Everyone 12:10 AM
+wait
+From Sunil Kumar Kota to Everyone 12:10 AM
+ippudu mana project ni ela load cheyyalo cheptha
+From Me to Everyone 12:10 AM
+where index.php present
+?
+From Sunil Kumar Kota to Everyone 12:11 AM
+inside htdocs follder
+From Me to Everyone 12:11 AM
+ok
+ok understood
+From Sunil Kumar Kota to Everyone 12:11 AM
+ippudu default index.html ela run avutundho cheppu naku
+type cheyyi
+chestava...
+cheppay yala nenu
+From Me to Everyone 12:12 AM
+ala run avvadam anti
+From Sunil Kumar Kota to Everyone 12:12 AM
+e page load avvamani ekkada undhi ani adugutunna
+From Me to Everyone 12:13 AM
+htdocs
+From Sunil Kumar Kota to Everyone 12:13 AM
+by default...xampp apache server...will treat index.html as first file...i.e start point of any application...similar to main method in java
+index.html is the starting point any web application...in general
+From Me to Everyone 12:13 AM
+ok
+From Sunil Kumar Kota to Everyone 12:13 AM
+if we don't want that we can change as well
+From Me to Everyone 12:13 AM
+okt
+From Sunil Kumar Kota to Everyone 12:13 AM
+but its not required for us...right now
+ok na
+
+http://localhost/dashboard/ - by default , whatever screen we are seeing now in browser...that enter thing is called dashboard project
+
+					-- similar to dashboard project, we have created / pasted our project folder whose name is Project...right. so
+
+now our project url will be --- http://localhost/your_project_folder_name - then apache will load index.html of your project
+
+so our actual project url , which we need to enter in browser is : http://localhost/Project
+
+
+DB connection steps
+
+first change your index.html into index.php.
+then inside body tag, before closing of body tag.....database conneciton you can only write in php code only...
+if you want t to diffrentiate php code  vs html code
+
+any thing which is presented inside <?php ##This is where we have to write all php variables, php database conneciton and everything...select query.....even html code also we can write inside this##    ?> -- 
+
+follow below link to connect with databse using php
+https://www.geeksforgeeks.org/how-to-insert-form-data-into-database-using-php/ --- ok
+
+and create tables using phpmyadmin which is presented inside xampp control panel
+if you want to access phpmyadmin in browser, you need to start mysql...similar to apache
+
+ok
+
+
+
+
+ee code akkada copy cheyyali
+ede ga bava
+
+
+
+aaa
+ante na?
+em cbesav asalu nv ippudu
+ien roju daentha emxi try. cheyyakunna
+enduku bhagya
+nijam ga cheptunnana
+discourage cheyyadam ani kaadhu
+cse/it lo....right or wrong ....forst try cheyyali
+evaro cheppinanthavaraku wait chesthey..aa bayam neeku eppudu undipotundhi
+inkeppudu ne anthata nuvvu own ga try cheyyadam raadhu
+ok bava
+sare ee okka sarii cheppandi
+nenu chesta
+
+
+bava ante na?
+aaa
+cheyyi
+firsptaa link lo code ela rastunnado choodu
+ardhamc ehsuko
+first chaduvu oka 5 mins aa link
+oknext neekay ardhama vutundhi mellaga
+
+
+antena bava
+aaaaaaaaa
+taruvata?
+
+seee....dont  prepare for asking me
+listen
+
+what we want to achieve by this project
+write first steps here
+then you will know, what to do next
+
+write the steps
+we have to connect html and db to brower throgh xamp
+
+ippudu ne daggara em em ready ga unnayi
+
+db
+html
+xamp
+
+correct
+now we need to do following things
+. ippudu html form ready ga undhi....html form lo submit kottagany
+php logic loki enter avvali manam...enduku.....? because from php only we can connect to databse
+
+so...what we require.....after clicking of submit button 
+we have to connect html and php?yes
+now....go to google and check...
+bava
+cheppandiiiiiiii
+bava\
+edi okkati cheppande'babuuuuuu
+bava
+em chestunnaru
+busy a??
+
+bhagya
+call chestha
+speaker on chesi explain chestha
+ila message lu pedithey chaduvu cheppalenu nenu
+will clal you
+akka ku cheppaynu lay
+sara em ani?
+bhagya code explain cehyyamantundhi...cheppala vaddhu aa ani
+
+
+cheppandi parledhu...nenu enduku emyna antanu antondhi
+
+
+madam
+call chestanu
+sray na
+malli neeku emyna ego feeling lu unnaya chaduvu patla
+
+ledu
+jagratha ga matladu
+aravaku
+oka faculty l treat cheyyi
+
+ok
+
+
+
+in general, every request will have method type
+
+form declare  chesaytappudu, we need to define type of request
+
+GET - TO SELECT / FETCH THE DATA FROM SERVER
+POST - DATA - WHENEVER YOU WANT TO SEND DATA TO SERVER(BACKEND OR DATABASE SERVER)
+PUT - TO UPDATE THE DATA
+DELETE - 
+
+
+
+
+bava
+php code ala run cheyyali
+localhost/index.php
+ante na
+
+bava
+db connectgion cheppandi
+
+nv try cheyyi ippudu
+nenu e lopu oka script run chesi vastha
+sray na
+ok bava
+
+nv try cheyyi...as it is ga copy paste
+scamarchali
+neekay ardham avutundhi
+saray na
+try now
+ok bava
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
